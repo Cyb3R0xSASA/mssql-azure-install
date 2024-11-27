@@ -128,8 +128,7 @@ Feel free to fork this repository, open issues, and submit pull requests. Contri
 For any questions or feedback, feel free to reach out via the following channels:
 
 - **GitHub**: [https://github.com/Cyb3R0xSASA](https://github.com/Cyb3R0xSASA)
-- **Instagram**: [@s_a_s__a_](https://www.instagram.com/s_a_s__a_)
 - **LinkedIn**: [s-a-s--a-](https://www.linkedin.com/in/s-a-s--a-)
-- **X (Twitter)**: [@s_a_s__a_](https://x.com/s_a_s__a_)
+
 
 ---
