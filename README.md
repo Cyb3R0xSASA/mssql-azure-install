@@ -1,5 +1,3 @@
----
-
 # MSSQL Server and Azure Data Studio Installation Script
 
 This repository contains a Bash script that automates the installation of **MSSQL Server** and **Azure Data Studio** on **Ubuntu 22.04** and **Kali Linux**.
@@ -9,8 +7,6 @@ The script will:
 2. Install **MSSQL Tools** (command-line tools).
 3. Install **Azure Data Studio** for GUI-based database management.
 4. Automate MSSQL Server configuration setup with predefined values.
-
----
 
 ## Prerequisites
 
